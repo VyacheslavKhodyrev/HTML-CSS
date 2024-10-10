@@ -1,0 +1,77 @@
+.navigation{
+    float: right;
+    height: 100%;
+    Width: 100%;
+}
+ 
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 10px 20px;
+    background-color: #101010;
+}
+ 
+.navigation a li{
+    vertical-align: top2;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+ 
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+
+.rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+}
+
+.p {
+    Font-size: 150%;
+    font-family: Times, serif;
+    	
+    color: navy; 
+}   
+
+.h1 {
+    font-family: Times, serif;
+    font-weight: bold;
+    
+    Color: red;
+}
+
+.h2 {
+    Font-family: Times, serif;
+    Color: olive;
+}
+
+.footer {
+    Height: 100%;
+    Background-color: gray;
+    Vertical-align: bottom;
+    Margin-bottom: 0px;
+    
+}
+
+.footer p {
+    font-family: Times, serif;
+    Color: white;
+}
+
+.content {
+    Height: 500px
+}
+
+.img {
+    Algin: center;
+    Margin: 7px 7px 7px 7px;
+    Padding-bottom: 7px;
+}
